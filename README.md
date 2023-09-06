@@ -7,9 +7,3 @@
 A Newsletter Conexão Informativa é uma aplicação web simples, criada com o objetivo principal de aprimorar as habilidades de estilização utilizando o framework Tailwind CSS. O Tailwind CSS é uma ferramenta poderosa que simplifica significativamente o processo de criação de interfaces de usuário atraentes e funcionais.
 - - -
 ![Projeto newsletter conexao informativa](https://github.com/Greisonboff/newsletter-conexao-informativa/blob/main/image/newsletter-conexao-informativa.vercel.app_.png?raw=true)
-
-<div>
-<a href="https://github.com/Greisonboff">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greisonboff&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Greisonboff&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
